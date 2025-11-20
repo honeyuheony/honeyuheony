@@ -7,5 +7,5 @@
 
 🤔 I’m looking to collaborate on efficient and joyful work process  
 
-![honeyuheony's GitHub stats](https://github-readme-stats.vercel.app/api?username=honeyuheony&theme=buefy&show_icons=true&hide_border=true)
+[![honeyuheony's GitHub stats](https://github-readme-stats.vercel.app/api?username=honeyuheony&theme=buefy&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honeyuheony&layout=compact)
